@@ -1,0 +1,12 @@
+name: "Academic website"
+output_dir: "."
+navbar: 
+  title: "Christen Priddie"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+      
+
+      
